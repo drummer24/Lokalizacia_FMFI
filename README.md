@@ -5,13 +5,13 @@ Lokalizácia na FMFI
 
 Cieľom je vytvoriť mobilnú aplikáciu, ktorá umožní študentom alebo návštevníkom lokalizáciu po fakulte (možnosť 2D alebo 3D zobrazenia...podľa dohody).
 
-Zadávateľ projektu:
+###### Zadávateľ projektu:
 * Mgr. Ján Hreha
 
-Cvičiaci:
-* prof. RNDr. Martin Škoviera PhD.
+###### Cvičiaci:
+* Mgr. Radoslav Škoviera
 
-Zloženie tímu:
+###### Zloženie tímu:
 * Marek Šmahovský
 * Martin Bobák
 * Martin Palka
