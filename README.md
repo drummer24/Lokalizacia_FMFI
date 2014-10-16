@@ -16,3 +16,6 @@ Cieľom je vytvoriť mobilnú aplikáciu, ktorá umožní študentom alebo náv�
 * Martin Bobák
 * Martin Palka
 * Martin Potisk
+
+###### Dokumentácia:
+Dostupná dokumentácia k tomuto projektu je dostupná na [Google Drive](https://drive.google.com/folderview?id=0B0-AzuwMLRXcY000anVKcUNRRTA&usp=sharing_eid) a bude časom pribúdať a pravdepodobne sa aj meniť.
