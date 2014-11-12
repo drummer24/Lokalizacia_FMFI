@@ -1,0 +1,5 @@
+@CHARSET "UTF-8";
+  header, section, footer, aside, nav, article, figure, audio, video, canvas  { display:block; }
+.red {
+	color:red;
+}
