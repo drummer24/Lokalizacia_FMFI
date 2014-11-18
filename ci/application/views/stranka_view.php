@@ -18,7 +18,24 @@
 			<span class="red">Cerveny Header</span>
 		</header>
 		<nav>Nav</nav>
-		<section id="content">Content</section>
+		<section id="content">Content
+		<br />
+		<?php 
+		$query = $this->db->query('SELECT name, title, email FROM test');
+
+		foreach ($query->result() as $row)
+			{
+    		echo $row->title;
+    		echo "<br />";
+    		echo $row->name;
+    		echo "<br />";
+    		echo $row->email;
+    		echo "<br />";
+			}
+
+			echo 'Total Results: ' . $query->num_rows();
+			?>
+		</section>
 
 		<footer> Footer </footer>
 	</div>
