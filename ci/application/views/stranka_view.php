@@ -21,17 +21,13 @@
 		<section id="content">Content
 		<br />
 		<?php 
-		$query = $this->db->query('SELECT id,suradnice FROM budova ');
-
-		foreach ($query->result() as $row)
+		foreach ($query as $row)
 			{
     		echo $row->id;
     		echo "<br />";
     		echo $row->suradnice;
     		echo "<br />";
     		}
-
-			echo 'Total Results: ' . $query->num_rows();
 			?>
 		</section>
 

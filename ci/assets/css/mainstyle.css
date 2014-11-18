@@ -3,3 +3,37 @@
 .red {
 	color:red;
 }
+
+/* *************************** Small screens ************************************** */
+@media only screen { } 
+
+/* min-width 320px and max-width 480px*/
+@media only screen and (min-width: 20em) and (max-width: 30em) { ... }
+
+/* min-width 481px and max-width 640px */
+@media only screen and (min-width: 30.063em) and (max-width: 40em) { } 
+
+/* *************************** Medium screens ************************************* */
+/* min-width 641px */
+@media only screen and (min-width: 40.063em) { } 
+
+ /* min-width 641px and max-width 1024px */
+@media only screen and (min-width: 40.063em) and (max-width: 64em) { }
+
+/* *************************** Large screens ************************************** */
+/* min-width 1025px */
+@media only screen and (min-width: 64.063em) { } 
+
+/* min-width 1025px and max-width 1440px */
+@media only screen and (min-width: 64.063em) and (max-width: 90em) { } 
+
+/* *************************** XLarge screens ************************************* */
+/* min-width 1441px */
+@media only screen and (min-width: 90.063em) { } 
+
+/* min-width 1441px and max-width 1920px*/
+@media only screen and (min-width: 90.063em) and (max-width: 120em) { } 
+
+/* *************************** XXLarge screens ************************************ */
+/* min-width 1921px*/
+@media only screen and (min-width: 120.063em) { } 
